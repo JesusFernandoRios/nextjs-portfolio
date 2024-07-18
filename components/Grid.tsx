@@ -24,7 +24,7 @@ function Grid() {
               description={description}
               className={className}
               img={img}
-              imgClass={imgClassName}
+              imgClassName={imgClassName}
               titleClassName={titleClassName}
               spareImg={spareImg}
             />

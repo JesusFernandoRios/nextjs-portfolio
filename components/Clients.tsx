@@ -5,7 +5,7 @@ import { div } from "three/examples/jsm/nodes/Nodes.js";
 
 const Clients = () => {
   return (
-    <div className="py-20" id="clients">
+    <div className="py-20" id="testimonials">
       <h1 className="heading">
         Kind words from <span className="text-purple">clients</span> and{" "}
         <span className="text-purple">coworkers</span>
